@@ -1,9 +1,5 @@
 # Anonymizing Ingredients
 
-Note
-
-This help should be accurate and comprehensive. If you see anything missing or that needs to be fixed, see [How to Contribute](https://docs.juiceboxdata.com/projects/juicebox/topics/contributing.html#how-to-contribute) or let us know in the Juice Slack \#documentation channel.
-
 Juicebox 3 supports anonymizing ingredients consistently throughout a stack.
 
 ## What do we mean by anonymization?[¶](anonymizing-ingredients.md#what-do-we-mean-by-anonymization)

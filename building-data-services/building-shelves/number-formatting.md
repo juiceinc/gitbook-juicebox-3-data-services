@@ -1,9 +1,5 @@
 # Number formatting
 
-Note
-
-This help should be accurate and comprehensive. If you see anything missing or that needs to be fixed, see [How to Contribute](https://docs.juiceboxdata.com/projects/juicebox/topics/contributing.html#how-to-contribute) or let us know in the Juice Slack \#documentation channel.
-
 You can define a format for Metrics and Dimensions that define how numbers are displayed. Juicebox’s number formatting is an extension of D3 Formats \([https://github.com/d3/d3-format/blob/master/README.md\#format](https://github.com/d3/d3-format/blob/master/README.md#format)\). Juicebox’s extensions support prefixes and suffixes, separate positive, negative, and zero formatting, ordinal formatting, and better formatting for business numbers.
 
 ## Format options[¶](number-formatting.md#format-options)
