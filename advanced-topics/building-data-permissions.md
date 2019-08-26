@@ -1,2 +1,2 @@
-# Building data permissions
+# User data permissions
 
